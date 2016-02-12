@@ -23,7 +23,7 @@ you start with Python 3. After all, it's the future of the language.
 There are plenty of great options for editing your python code. Some our
 favorites are:
 
-* [Idle]() -- Integrated Development and Learning Environment (comes with Python!)
+* [Idle](https://docs.python.org/3.5/library/idle.html) -- Integrated Development and Learning Environment (comes with Python!)
 * [Atom](https://atom.io/) -- A free and open source text editor from GitHub
 * [Sublime Text](http://www.sublimetext.com/) -- A popular commercial text editor
 * [Vim](http://www.vim.org/) -- A free and open source text editor
