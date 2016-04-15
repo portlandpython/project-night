@@ -17,6 +17,7 @@ you start with Python 3. After all, it's the future of the language.
 * Download python from [python.org](https://www.python.org/).
 * If you're on Mac OS X and have [Homebrew](http://brew.sh/) installed,
   then you can install Python 3 with `brew install python3`.
+* [Anaconda](https://www.continuum.io/downloads) has Windows, Mac, and Linux installers and includes many popular Python packages.
 
 ### What Editor Should I Use?
 
