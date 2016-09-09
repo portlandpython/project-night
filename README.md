@@ -1,5 +1,9 @@
 # Portland Python Project Night
 
+## Working on something cool?
+
+Give a lightning talk at our next Presentation Night! If you've never given a talk before, don't worry we have a [guide](lightning-talks.md)!
+
 ## Resources for New Python Programmers
 
 We're happy to have you here at the *Portland Python Project and Study Night*.
